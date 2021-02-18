@@ -16,6 +16,8 @@
 
 ### •Click restaurant database and in MySQL code drag and drop the provided script, with the name SQLrestaurant.sql, in the folder mysqlscript.
 
+### •Open control panel of Xampp and click admin on Apache. It will open default browser, there type: http://localhost/PHP 20Restaurant/My_Restaurant/home.php and it will direct you to the home page of the application.
+
 ## Admin credentials in the site:
 
 Username:giannislp
