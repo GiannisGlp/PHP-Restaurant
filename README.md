@@ -10,6 +10,8 @@ in case, the person who logged in, is one of the administrators then the page wi
 
 ## Project's Specification & Requirments
 
-Front-end: PHP, HTML, CSS and some bootstrap libraries.
-Back-end: PHP.
-Database: MySql.
+### Front-end: PHP, HTML, CSS and some bootstrap libraries.
+
+### Back-end: PHP.
+
+### Database: MySql.
