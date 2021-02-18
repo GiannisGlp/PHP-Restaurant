@@ -6,7 +6,7 @@
 
     https://www.apachefriends.org/download.html
 
-## •Open the installed Xampp location, Run xampp-control.exe
+## Open the installed Xampp location, Run xampp-control.exe
 
 ## •Open control panel of Xampp and run Apache and MySql
 
